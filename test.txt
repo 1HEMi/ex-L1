@@ -1,0 +1,12 @@
+alice	Jan	10K	42	alpha
+bob	Mar	2M	7	beta
+carol	Feb	900	13	alpha  
+dave	Dec	1G	100	gamma
+eve	Apr	512K	100	beta
+mallory	Jan	10k	42	alpha
+trent	Nov	2G	3	zeta
+peggy	Sep	1.5M	20	eta
+victor	Jul	128K	7	beta
+walter	Oct	2m	7	beta
+bob	Mar	2M	7	beta
+zoe	Jan	10K	42	alpha
